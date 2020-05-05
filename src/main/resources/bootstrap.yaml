@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: https://config-server.com
+      enabled: false
+      fail-fast: true
+
